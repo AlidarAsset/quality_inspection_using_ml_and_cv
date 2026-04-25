@@ -1,0 +1,22 @@
+# Python env
+.venv/
+venv/
+
+# Cache
+__pycache__/
+*.pyc
+
+# ML outputs
+checkpoints/
+results/
+
+# Datasets (если есть)
+data/
+dataset/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
